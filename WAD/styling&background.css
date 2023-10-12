@@ -1,0 +1,26 @@
+body{
+    background-color: darkcyan;
+    background-image: url(https://wallpaperaccess.com/full/1711600.jpg)
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:chartreuse;
+    text-indent:30px;
+}
+h2{
+    font-family :'Times New Roman',Times, Serif;
+    text-align: center;
+    color:aqua;
+    text-transform: initial;
+}
+h3{
+    text-align: center;
+    color:brown;
+    text-decoration: line-through;
+}
+p{
+    text-align: justify;
+    color:black;
+    text-transform: initial;
+}

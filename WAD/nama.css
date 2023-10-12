@@ -1,0 +1,20 @@
+body{
+    background-color: honeydew;
+    background-image : url(https://i.ytimg.com/vi/aY_0s1-3ais/maxresdefault.jpg)
+}
+h1{
+    text-align: center;
+    color:rgb(31, 180, 165);
+}
+h3{
+    text-align:left;
+    color:blueviolet;
+    text-decoration:underline;
+    text-transform: Uppercase;
+}
+p{
+    color:white;
+    text-align : justify;
+    letter-spacing: normal;
+
+}
